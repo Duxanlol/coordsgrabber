@@ -1,7 +1,6 @@
 from tkinter import *
 from PIL import ImageGrab, ImageTk, Image
 import sys
-import time
 import pyperclip
 
 TEXT_OFFSET_X = 50
